@@ -523,10 +523,21 @@ If you want to edit or add a shortcut you have to find and copy the lines of cod
 
 &lt;p&gt;Design for multiple dashboard widgets for data visualization.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-multiple.jpg&#34; data-action=&#34;zoom&#34;&gt;
-&lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-ipad.jpg&#34; data-action=&#34;zoom&#34;&gt;
-&lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-ipad2.jpg&#34; data-action=&#34;zoom&#34;&gt;
-&lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-ft2.jpg&#34; data-action=&#34;zoom&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-fancybox=&#34;dashboard&#34; href=&#34;https://anareyna.github.io/img/portfolio/gomobile-multiple.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-multiple.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-fancybox=&#34;dashboard&#34; href=&#34;https://anareyna.github.io/img/portfolio/gomobile-ipad.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-ipad.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-fancybox=&#34;dashboard&#34; href=&#34;https://anareyna.github.io/img/portfolio/gomobile-ipad2.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-ipad2.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-fancybox=&#34;dashboard&#34; href=&#34;https://anareyna.github.io/img/portfolio/gomobile-ft2.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/gomobile-ft2.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -550,7 +561,9 @@ If you want to edit or add a shortcut you have to find and copy the lines of cod
 
 &lt;p&gt;Q-Hopper is an innovative approach to ordering food from your smartphone. This user interface design has a clean look and feel. The app is intended to be used by fast food consumers in crowded environments like stadiums.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://anareyna.github.io/img/portfolio/qhopper-multiple.jpg&#34; data-action=&#34;zoom&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-fancybox href=&#34;https://anareyna.github.io/img/portfolio/qhopper-multiple.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/qhopper-multiple.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;interactive-prototype&#34;&gt;Interactive prototype&lt;/h4&gt;
 
@@ -558,7 +571,9 @@ If you want to edit or add a shortcut you have to find and copy the lines of cod
 
 &lt;h4 id=&#34;facebook-cover-design&#34;&gt;Facebook cover design&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://anareyna.github.io/img/portfolio/qhopper-fb-cover.jpg&#34; data-action=&#34;zoom&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-fancybox href=&#34;https://anareyna.github.io/img/portfolio/qhopper-fb-cover.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/qhopper-fb-cover.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -638,11 +653,15 @@ If you want to edit or add a shortcut you have to find and copy the lines of cod
 
 &lt;p&gt;Zapon.com is a Social Network based on your interests not specially on friends. By specifying your own interests you can join other people having the same interests to share “links”, “pictures”, “Videos” or chat in real-time with those people. This means that you define your proper social network based on your interests, instead of friendships. You cannot only join people interested in something (e.g. Design), but you can also define the geographical scope. Whether you want to get in touch with “Designer”s world wide or just in your country or city. By that zapon can create your own personal local community.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://anareyna.github.io/img/portfolio/zapon-full.jpg&#34; data-action=&#34;zoom&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-fancybox href=&#34;https://anareyna.github.io/img/portfolio/zapon-full.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/zapon-full.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;detail-page-design&#34;&gt;Detail page design&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://anareyna.github.io/img/portfolio/zapon-detail.jpg&#34; data-action=&#34;zoom&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-fancybox href=&#34;https://anareyna.github.io/img/portfolio/zapon-detail.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/zapon-detail.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -666,7 +685,9 @@ If you want to edit or add a shortcut you have to find and copy the lines of cod
 
 &lt;p&gt;FG Global is a research platform that works to connect participants with information about upcoming focus group, clinical trials, taste tests, and more, all recruiting in their community. New studies are added daily, and provide participants with the opportunity to share their opinions with hundreds of the world’s most well-known companies.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://anareyna.github.io/img/portfolio/fgglobal-full.jpg&#34; data-action=&#34;zoom&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-fancybox href=&#34;https://anareyna.github.io/img/portfolio/fgglobal-full.jpg&#34;&gt;
+    &lt;img src=&#34;https://anareyna.github.io/img/portfolio/fgglobal-full.jpg&#34;&gt;
+&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
