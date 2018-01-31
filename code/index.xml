@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on Ana Reyna</title>
-    <link>https://anareyna.github.io/code/index.xml</link>
+    <link>https://anareyna.github.io/code/</link>
     <description>Recent content in Code on Ana Reyna</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Dec 2016 23:01:31 -0500</lastBuildDate>
-    <atom:link href="https://anareyna.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://anareyna.github.io/code/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Ofertop</title>
@@ -15,22 +17,8 @@
       <pubDate>Fri, 30 Dec 2016 23:01:31 -0500</pubDate>
       
       <guid>https://anareyna.github.io/code/ofertop/</guid>
-      <description>
-
-&lt;p&gt;Responsive e-commerce redesign implementation from scratch for Ofertop. BEM methodology applied and also Atomic design concepts in order to work with components and keep site maintainable and scalable.&lt;/p&gt;
-
-&lt;h5 id=&#34;front-end-tools&#34;&gt;Front-end tools:&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Pug (HTML preprocessor)&lt;/li&gt;
-&lt;li&gt;Javascript (ES6)&lt;/li&gt;
-&lt;li&gt;Stylus (CSS preprocessor)&lt;/li&gt;
-&lt;li&gt;Gulp.js&lt;/li&gt;
-&lt;li&gt;Bower&lt;/li&gt;
-&lt;li&gt;BEM&lt;/li&gt;
-&lt;li&gt;Atomic design&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Responsive e-commerce redesign implementation from scratch for Ofertop. BEM methodology applied and also Atomic design concepts in order to work with components and keep site maintainable and scalable.
+Front-end tools:  Pug (HTML preprocessor) Javascript (ES6) Stylus (CSS preprocessor) Gulp.js Bower BEM Atomic design  </description>
     </item>
     
     <item>
@@ -39,27 +27,8 @@
       <pubDate>Sun, 20 Nov 2016 23:01:31 -0500</pubDate>
       
       <guid>https://anareyna.github.io/code/freensy/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; UX/UI Logo, site design and front-end implementation for a secret santa (high fidelity prototype) demo project in Spanish. This is a proposal for a web app.&lt;/p&gt;
-
-&lt;h5 id=&#34;ux-ui-tools&#34;&gt;UX/UI tools:&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sketch app&lt;/li&gt;
-&lt;li&gt;Invision app&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;front-end-tools&#34;&gt;Front-end tools:&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gulp.js&lt;/li&gt;
-&lt;li&gt;Flexbox (CSS)&lt;/li&gt;
-&lt;li&gt;Stylus (CSS preprocessor)&lt;/li&gt;
-&lt;li&gt;Pug (HTML preprocessor)&lt;/li&gt;
-&lt;li&gt;Javascript / jQuery&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Role: UX/UI Logo, site design and front-end implementation for a secret santa (high fidelity prototype) demo project in Spanish. This is a proposal for a web app.
+UX/UI tools:  Sketch app Invision app  Front-end tools:  Gulp.js Flexbox (CSS) Stylus (CSS preprocessor) Pug (HTML preprocessor) Javascript / jQuery  </description>
     </item>
     
     <item>
@@ -68,21 +37,8 @@
       <pubDate>Sun, 10 Apr 2016 23:01:31 -0500</pubDate>
       
       <guid>https://anareyna.github.io/code/estilomio/</guid>
-      <description>
-
-&lt;p&gt;This is a redesign project for the fully responsive version of this ecommerce site.&lt;/p&gt;
-
-&lt;h5 id=&#34;front-end-tools&#34;&gt;Front-end tools:&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gulp.js&lt;/li&gt;
-&lt;li&gt;Flexbox (CSS)&lt;/li&gt;
-&lt;li&gt;Jade (HTML preprocessor)&lt;/li&gt;
-&lt;li&gt;Javascript (ES6)&lt;/li&gt;
-&lt;li&gt;Stylus (CSS preprocessor)&lt;/li&gt;
-&lt;li&gt;Jeet.gs / Rupture (grids and media queries add-ons)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> This is a redesign project for the fully responsive version of this ecommerce site.
+Front-end tools:  Gulp.js Flexbox (CSS) Jade (HTML preprocessor) Javascript (ES6) Stylus (CSS preprocessor) Jeet.gs / Rupture (grids and media queries add-ons)  </description>
     </item>
     
     <item>
@@ -91,20 +47,8 @@
       <pubDate>Fri, 30 Oct 2015 23:01:31 -0500</pubDate>
       
       <guid>https://anareyna.github.io/code/jobs/</guid>
-      <description>
-
-&lt;p&gt;This is a personal project for a job board demo. Using flexbox, responsive web design, and pre-processors. Designed and implemented from zero.&lt;/p&gt;
-
-&lt;h5 id=&#34;front-end-tools&#34;&gt;Front-end tools:&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jade (HTML preprocessor), Jeet.gs&lt;/li&gt;
-&lt;li&gt;Javascript (ES6)&lt;/li&gt;
-&lt;li&gt;Stylus (CSS preprocessor)&lt;/li&gt;
-&lt;li&gt;Gulp.js&lt;/li&gt;
-&lt;li&gt;Flexbox&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> This is a personal project for a job board demo. Using flexbox, responsive web design, and pre-processors. Designed and implemented from zero.
+Front-end tools:  Jade (HTML preprocessor), Jeet.gs Javascript (ES6) Stylus (CSS preprocessor) Gulp.js Flexbox  </description>
     </item>
     
   </channel>
